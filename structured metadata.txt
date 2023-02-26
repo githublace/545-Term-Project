@@ -1,0 +1,32 @@
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+<identifier identifierType="DOI">10.34740/kaggle/ds/1018720</identifier>
+<creators>
+<creator>
+<creatorName nameType="Personal">Dhruvil Dave</creatorName>
+</creator>
+<titles>
+<title xml:lang="en">New York Times Best Sellers</title>
+</titles>
+<publishers>
+<publisher xml:lang="en">The New York Times</publisher>
+<publicationYear>2010-01-02-2019-12-28</publicationYear>
+<publisher xml:lang="en">Kaggle.com</publisher>
+<publicationYear>2020</publicationYear>
+</publishers>
+<rightsList>
+<rights name="rightsURI" type="license">CC BY-NC-SA 4.0</rights>
+</rightsList>
+<subjects>
+<subject xml:lang="en">Arts and Entertainment</subject>
+<subject xml:lang="en">Internet</subject>
+<subject xml:lang="en">New York Times Best Sellers</subject>
+<subject xml:lang="en">Publishing</subject>
+<subject xml:lang="en">Bestsellers</subject>
+<subject xml:lang="en">Popular fiction</subject>
+</subjects>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<descriptions>
+<description xml:lang="en" descriptionType="Abstract">The data contains Best Sellers List published by The New York Times every Sunday. The temporal range is from 03-Jan-2010 to 29-Dec-2019 which makes it a whole decade of data. Each week, 5 books are named as best sellers for each category. From the about section of the dataset's landing page.</description>
+</descriptions>
+</resource>
