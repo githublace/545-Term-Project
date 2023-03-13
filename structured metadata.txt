@@ -7,12 +7,12 @@
 <titles>
 <title xml:lang="en">New York Times Best Sellers</title>
 </titles>
-<publishers>
-<publisher xml:lang="en">The New York Times</publisher>
-<publicationYear>2010-01-02-2019-12-28</publicationYear>
-<publisher xml:lang="en">Kaggle.com</publisher>
-<publicationYear>2020</publicationYear>
-</publishers>
+<contributors>
+<contributorName contributorType="DataManager">The New York Times</contributor>
+<date dateType="collected">2010-01-02-2019-12-28</date>
+<contributorName contributorType="HostingInstitution">Kaggle.com</contributor>
+<date dateType="available">2020</date>
+</contributors>
 <rightsList>
 <rights name="rightsURI" type="license">CC BY-NC-SA 4.0</rights>
 </rightsList>
